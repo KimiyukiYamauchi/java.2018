@@ -1,5 +1,23 @@
 # 課題
 
+## 10/17
+- 1017ディレクトリを作成
+- p177 Q1
+	- Spain
+	- Spanish
+	- Buenos Dias(こんにちは)
+	- Hasta luego(さようなら)
+	- Gracias(ありがとう)
+
+## 10/16
+- 1016ディレクトリを作成
+- p151 Q4 => En5_4.java
+
+## 10/11
+- 1011ディレクトリを作成
+- p111 Q1 => En4_1.java、Item.java
+- p111 Q2 => En4_2.java、PrimeNumberCalculator.java
+
 ## 10/10
 - 1010ディレクトリを作成
 - p83 Q2 => それぞれのアルゴリズムのループ回数をカウント、表示
