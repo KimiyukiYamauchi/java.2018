@@ -1,8 +1,8 @@
 # 課題
 
-## 11/01
-1. quiz/1101/Ex5.javaを修正し、Ex5Testを全て通す
-1. quiz/1101/Ex6.javaを修正し、Ex6Testを全て通す
+## 11/06
+1. quiz/1106/Ex5.javaを修正し、Ex5Testを全て通す
+1. quiz/1106/Ex6.javaを修正し、Ex6Testを全て通す
 
 1. Ex5
 
