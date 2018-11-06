@@ -189,7 +189,7 @@ public class Ex6Test {
 	public void ex6_7_5(){
 		int [] a = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 		int idx = 8;
-		int [] expected = {1, 2, 3, 4, 5, 6, 7, 8};
+		int [] expected = {1, 2, 3, 4, 5, 6, 7, 8, 10};
 		int [] actual = ex6.ex6_7(a, idx);
 		assertThat(actual, is(expected));
 	}
