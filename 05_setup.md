@@ -104,3 +104,28 @@ S- sudo service tomcat8 start
 
 #### 3.4.3. tomcat再起動
 - sudo service tomcat8 restart
+
+## 4. サンプルファイルについて
+
+### 4.1. コピー先
+- /var/lib/tomcat8/webapps
+
+### 4.2. 動作確認用データの設定
+
+#### 4.2.1. ディレクトリの移動
+- cd /var/lib/tomcat8/webapps/selfjsp
+
+#### 4.2.2. rootユーザでデータベースに接続
+- mysql -u root -p
+
+#### 4.2.3. database作成
+- create database jsp
+
+#### 4.2.3. user作成
+- grant all on jsp.* to jsp@localhost identified by 'jsp';
+
+#### 4.2.4. 一旦切断
+- exit
+
+#### 4.2.5. 動作確認用データの設定￥
+- mysql -u jsp -p jsp < selfjsp.sql
