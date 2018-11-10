@@ -7,3 +7,5 @@
 - 最終課題 25%
 
 ## 関連リンク
+
+- [JDBCドライバ](https://mariadb.com/kb/en/library/mariadb-connector-j/)
