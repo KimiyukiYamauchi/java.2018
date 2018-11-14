@@ -119,7 +119,7 @@ S- sudo service tomcat8 start
 - mysql -u root -p
 
 #### 4.2.3. database作成
-- create database jsp
+- create database jsp;
 
 #### 4.2.3. user作成
 - grant all on jsp.* to jsp@localhost identified by 'jsp';
