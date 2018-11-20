@@ -86,9 +86,9 @@ S- sudo service tomcat8 start
 - sudo vi ~/.bashrc
 
 #### 3.3.2. 以下の記述を追加
-- export CAALINA_HOME=/usr/share/tomcat8
+- export CATALINA_HOME=/usr/share/tomcat8
 - export CATALINA_BASE=/var/lib/tomcat8
-- export CLASPATH=$CLASSPATH:$CATALINA_HOME/lib/servlet-api.jar:$CATALINA_HOME/lib/jsp-api.jar:$CATALINA_BASE/webapps/selfjsp/WEB-INF/classes/
+- export CLASSPATH=$CLASSPATH:$CATALINA_HOME/lib/servlet-api.jar:$CATALINA_HOME/lib/jsp-api.jar:$CATALINA_BASE/webapps/selfjsp/WEB-INF/classes/
 
 #### 3.3.3. 設定ファイルの再読込
 - . ~/.bashrc
