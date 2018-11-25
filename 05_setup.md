@@ -127,5 +127,13 @@ S- sudo service tomcat8 start
 #### 4.2.4. 一旦切断
 - exit
 
-#### 4.2.5. 動作確認用データの設定￥
+#### 4.2.5. 動作確認用データの設定
 - mysql -u jsp -p jsp < selfjsp.sql
+
+## 5. Jersey開発環境
+
+### 5.1 mavenのインストール
+- sudo apt install maven
+
+### 5.2 proxyの設定
+- sudo vi /etc/maven/settings.xml
