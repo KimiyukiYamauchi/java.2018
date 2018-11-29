@@ -10,3 +10,4 @@
 
 - [JDBCドライバ](https://mariadb.com/kb/en/library/mariadb-connector-j/)
 - [Jersey](https://jersey.github.io/)
+- [Maven Repository](https://mvnrepository.com/)
